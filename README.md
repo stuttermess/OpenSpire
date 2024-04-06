@@ -8,3 +8,6 @@ If it is YYC, I will waste my time recreating everything from scratch.
 # Dependencies
 - GameMaker 2023.6
 - A brain, preferably not smooth
+
+# Note
+This is a reupload of Sugary Spire's P Rank Leaked build from loypoll's repo. You can see the page here: https://web.archive.org/web/20231011230305/https://github.com/loypoll/OpenSpire
