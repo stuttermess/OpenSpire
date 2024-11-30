@@ -241,4 +241,3 @@ function reverseSlope_check_up(argument0, argument1, argument2 = 3) //reverseSlo
     }
     return 0;
 }
-
