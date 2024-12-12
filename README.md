@@ -10,4 +10,4 @@ If it is YYC, I will waste my time recreating everything from scratch."
 - "A brain, preferably not smooth"
 
 # Note
-This is a reupload from loypoll's repo. You can see the page here: https://web.archive.org/web/20231011230305/https://github.com/loypoll/OpenSpire
+This is a reupload from Lila's repo. You can see the page here: https://web.archive.org/web/20231011230305/https://github.com/loypoll/OpenSpire
